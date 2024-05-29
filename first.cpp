@@ -7,5 +7,5 @@ int main(){
     cin>>a;
      cout<<"enter a number";
     cin>>b;
-    cout<< a + b;
+    cout<< a + b + c;
 }
